@@ -1,0 +1,52 @@
+body{
+    background: rgb(0, 0, 0);
+    margin-top: 5%;
+}
+header{
+    background: white;
+    display: flex;
+    
+}
+.Jose-Gomez{
+    text-align: left;
+    margin-top: 0px ;
+}
+.post{
+    background: white;
+    width: 400px;
+    height: 100%;
+    margin: auto;
+
+}
+.container{
+    width:600px;
+    margin: auto;
+    margin-top: 20px;
+}
+.profile-image{
+    width: auto;
+    shape-margin: 100%;
+    overflow: auto;
+}
+.image1{
+    width: 100%;
+    display: flex;
+}
+.h4-tittle{
+    display: inline-block;
+    font-family:'Montserrat', sans-serif;
+    margin-bottom: 0px;
+}
+.content{
+    display: flex;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.icons{
+    display: flex;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
